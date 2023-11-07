@@ -5,7 +5,7 @@
 I'm looking for a Job
   <p align="center">
 🌐Socials:
-
+ <p align="center">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100014731830018" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
@@ -13,7 +13,7 @@ I'm looking for a Job
   <a href="https://github.com/TienNHM" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
