@@ -10,10 +10,10 @@ I'm looking for a Job
   <a href="https://www.facebook.com/profile.php?id=100014731830018" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
+  <a href="https://github.com/hagiang123" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="Email">
+  <a href="mailto:hoctap2514@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
